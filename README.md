@@ -321,3 +321,16 @@ To avoid unnecessary charges, remove resources in this order:
 ## Tools and Services
 
 `Amazon S3` · `Amazon CloudFront` · `Amazon Route 53` · `AWS Certificate Manager` · `AWS CLI`
+
+---
+
+## Author
+
+**Sinsha C**
+ 
+## Connect
+
+If you're on a similar DevOps learning journey, feel free to connect or follow along:
+
+[![GitHub](https://img.shields.io/badge/GitHub-sinsha--c-181717?style=flat&logo=github&logoColor=white)](https://github.com/sinsha-c)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sinshac-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sinshac)
